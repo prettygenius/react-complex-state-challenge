@@ -1,6 +1,6 @@
 # React Color Theme Toggle
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
 A React app created using Vite, React Icons, and the use-local-storage React hook. 
 This app allows users to toggle between light and dark themes, and their theme preference is stored using local storage.
@@ -21,10 +21,10 @@ This app allows users to toggle between light and dark themes, and their theme p
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/prettygenius/darkthemereact.git
-   cd darkthemereact
-   ```
+```bash
+git clone https://github.com/prettygenius/darkthemereact.git
+cd darkthemereact
+```
 
 2. Install dependencies:
 
