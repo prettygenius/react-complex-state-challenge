@@ -24,17 +24,22 @@ This app allows users to toggle between light and dark themes, and their theme p
    ```bash
    git clone https://github.com/prettygenius/darkthemereact.git
    cd darkthemereact
+   ```
 
-   Install dependencies:
-
-```bash
-
->npm install
-Run the app:
+2. Install dependencies:
 
 ```bash
 
->npm run dev
+npm install
+
+```
+
+3.Run the app:
+
+```bash
+
+npm run dev
+```
 The app will be available at http://localhost:5173.
 
 # License
