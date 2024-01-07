@@ -3,6 +3,7 @@
 ##Goal : click star icon to flip isFavorite value from true to false
 -use setContact to update new version of state with old version
 
+##solution in App.jsx
 Quick start:
 
 ```
